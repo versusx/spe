@@ -1,0 +1,17 @@
+{
+  "name": "site",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "vastellorde"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/versusx/mysite",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
